@@ -1,0 +1,15 @@
+4.1
+ilosc nalezacych do wnetrza: 7852
+punkty lezace na brzegu:
+256 8
+200 400
+
+
+
+
+4.2
+przyblizenie dla pierwszych 1000 punktow: 3.228
+przyblizenie dla pierwszych 5000 punktow: 3.1656
+przyblizenie dla wszystkich punktow: 3.1416
+
+
