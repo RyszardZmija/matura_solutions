@@ -1,0 +1,1 @@
+Suma wszystkich liczb w systemie osemkowym jest: 887918739

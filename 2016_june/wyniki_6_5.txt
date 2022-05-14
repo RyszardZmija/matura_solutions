@@ -1,0 +1,7 @@
+
+Najmniejsza
+kod: 100002	wartosc w dziesietnym: 16
+
+Najwieksza
+kod: 8066218209	wartosc w dziesietnym: 347931225
+

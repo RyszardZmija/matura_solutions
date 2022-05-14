@@ -1,0 +1,1 @@
+Liczba liczb zapisanych w systemie osemkowym: 103
